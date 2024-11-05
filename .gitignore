@@ -1,7 +1,7 @@
 # Project specific
 /url_analysis_results*
 /url_analysis_results old*
-combined_csv_20241023.csv
+/inputs*
 logs/*
 
 # Python
